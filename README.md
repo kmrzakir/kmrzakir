@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmrzakir&label=Profile%20views&color=0e75b6&style=flat" alt="kmrzakir" /> </p>
 
-- 📫 How to reach me **zakirmustafa444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

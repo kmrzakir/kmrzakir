@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm zakir</h1>
 <h3 align="center">I’m a BCA student: 90% tea, 10% code, 100% confused also student of 'Ctrl+C' and 'Ctrl+V'.</h3>
 <h5>Currently majoring in 'How to Survive Exams</h5>
+<h5>Why do programmers prefer dark mode? Because light attracts bugs! 😁😁😁</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmrzakir&label=Profile%20views&color=0e75b6&style=flat" alt="kmrzakir" /> </p>
 
